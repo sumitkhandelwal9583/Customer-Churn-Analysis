@@ -1,2 +1,2 @@
-# Customer-Churn-Analysis
-Customer Churn Prediction Case Study
+# Tele-Customer-Churn-Analysis
+Tele-Customer Churn Prediction Case Study
